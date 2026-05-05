@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/earthquake-dashboard/static/css/main.4bda0311.css",
+    "main.js": "/earthquake-dashboard/static/js/main.fa5277bd.js",
+    "index.html": "/earthquake-dashboard/index.html",
+    "main.4bda0311.css.map": "/earthquake-dashboard/static/css/main.4bda0311.css.map",
+    "main.fa5277bd.js.map": "/earthquake-dashboard/static/js/main.fa5277bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bda0311.css",
+    "static/js/main.fa5277bd.js"
+  ]
+}
